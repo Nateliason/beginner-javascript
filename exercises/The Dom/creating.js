@@ -18,3 +18,5 @@ console.log(myDiv);
 myDiv.appendChild(myImg);
 myDiv.appendChild(myPara);
 document.body.appendChild(myDiv);
+
+const myList = document.createElement('ul');
