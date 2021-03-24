@@ -1,0 +1,1 @@
+My exercises and code from Wes Bos's ["Beginner Javascript" course](https://BeginnerJavaScript.com/friend/ELIASON). 
